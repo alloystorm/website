@@ -1,2 +1,16 @@
+# theme: jekyll-theme-slate
+remote_theme: "mmistakes/minimal-mistakes"
 title: VR Storm Lab
-theme: jekyll-theme-cayman
+description: Test site 
+google_analytics: UA-147265380-2
+include: app-ads.txt
+logo: /images/icon.png
+breadcrumbs: false
+url: https://alloystorm.github.io/website/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
